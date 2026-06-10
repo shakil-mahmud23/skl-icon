@@ -2,7 +2,7 @@
   font-family: 'skl-font';
   src: url('skl-font.woff2') format('woff2'),
        url('https://github.com/shakil-mahmud23/skl-icon/raw/refs/heads/main/skl-font.woff') format('woff'),
-       url('skl-font.ttf') format('truetype');
+       url('https://github.com/shakil-mahmud23/skl-icon/raw/refs/heads/main/skl-font.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
