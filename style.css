@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'skl-font';
+  src: url('skl-font.woff2') format('woff2'),
+       url('skl-font.woff') format('woff'),
+       url('skl-font.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.skl-icon {
+  font-family: 'skl-font' !important;
+}
+
+.icon-home:before{
+    content: '\f000';
+}
+.icon-user:before{
+    content: '\f001';
+}
+.icon-search:before{
+    content: '\f002';
+}
+.icon-bell:before{
+    content: '\f003';
+}
+.icon-menu:before{
+    content: '\f004';
+}
+.icon-back:before{
+    content: '\f005';
+}
+.icon-warning:before{
+    content: '\f006';
+}
+.icon-signin:before{
+    content: '\f007';
+}
