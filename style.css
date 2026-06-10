@@ -12,7 +12,7 @@
 }
 
 .icon-home:before{
-    content: '\f000';
+    content: 'ok';
 }
 .icon-user:before{
     content: '\f001';
